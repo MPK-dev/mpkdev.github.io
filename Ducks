@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--Created by : Keshav King
+			Date: 30/3/2021
+			Course: CMP621A
+		-->
+<!--I have no Idea what the metas mean.-->
+
+    <meta charset="utf-8">
+    <meta name="As I am Qacks about ducks, here is a website about them." content="All about Ducks">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="Keshav King " content="John Doe">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    
+    <title>Ducks</title>
+    <style>
+      h1 {text-align:center;}
+      h2 {text-align:center;}
+      body {backround-color: rgb(102,153,0);}
+      </style>
+    
+  </head>
+  <h1>All about Ducks</h1>
+  <h2>I quite the Quack.</h2>
+
+  <body>
+    <a href="second.html" > More information about Ducks </a>
+   <table>
+     <thread>
+     <tr>
+      <th>
+          Learn about a famous Duck
+      </th>
+       <th>
+         How to treat your duck
+       </th>
+       <th>
+         This is the majestic sound of a Duck
+       </th>
+     </tr>
+   </thread>
+   <tbody>
+     <tr>
+       <td>
+         <a href= "https://youtube.fandom.com/wiki/Dolan_Dark " target= "_blank"> <img src="https://i.kym-cdn.com/entries/icons/original/000/021/277/duck.jpg" alt =" Photograph of the famous duck Dolan Dark"
+         height= "240">
+       </td>
+       <td>
+         <iframe width= "320" height = "240"
+							src= "https://www.youtube.com/embed/QNmb2qADaJw"> </iframe> 
+       </td>
+       <td>
+          <audio controls autoplay loop>
+						<source src= "duck-quack/Duck-quack.mp3" type= "audio/mpeg"> </audio>
+
+       </td>
+     </tr>
+     <tr>
+       <td>
+         This is part of my unorderd list.
+         <ul>
+           <li>
+             <a target= "_blank" href = "second.html"> More information about ducks</a>
+           </li>
+           <li>
+             <a target= "_blank" href = "https://www.ducks.org/hunting/waterfowl-id/"> Types of ducks</a>
+           </li>
+           <li>
+             <address>
+		<!--  Add a mail to - link -->
+		 <a href="mailto:slippinjimmy188@gmail.com">Email Saul Goodman to learn more about ducks</a> 
+		</address>
+           </li>
+           <li>
+             <a target= "_blank" href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1">Where to find ducks on PEI </a>
+             </li>
+         </ul>
+       </td>
+       <td>
+         <p>Duck is the <i>common name</i>for numerous species in the waterfowl family <b>Anatidae</b> which also includes <mark>swans</mark> and <mark>geese</mark>. Ducks <ins>are</ins> <del>aren't</del> divided among several subfamilies in the family Anatidae; they do not represent a <sub>monophyletic group</sub> (the group of all descendants of a single common ancestral species) but a form taxon, since swans and geese are not considered ducks. </p>
+        <br>
+         <p>Ducks are mostly aquatic birds, mostly smaller than the swans and geese, and may be found in both fresh water and sea water.
+         Ducks are sometimes confused with several types of unrelated water birds with similar forms, such as loonsor, divers, grebes, gallinules and coots.</p>
+       </td>
+     </tr>
+
+   </tbody>
+   </table>
+    
+
+  </body>
+</html>
